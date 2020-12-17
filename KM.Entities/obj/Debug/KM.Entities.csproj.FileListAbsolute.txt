@@ -1,0 +1,6 @@
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\bin\Debug\KMEntities.dll
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\bin\Debug\KMEntities.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\obj\Debug\KM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\obj\Debug\KMEntities.dll
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\obj\Debug\KMEntities.pdb
+C:\Users\Ufuk\Documents\Visual Studio 2019\Projects\KatmanliMimari\KMEntities\obj\Debug\KM.Entities.csprojAssemblyReference.cache
